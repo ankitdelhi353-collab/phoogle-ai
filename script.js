@@ -1,5 +1,5 @@
 async function searchAI() {
-  const query = document.getElementById("query").value;
+ const query = document.getElementById("question").value;
   const result = document.getElementById("result");
 
   if (!query) {
