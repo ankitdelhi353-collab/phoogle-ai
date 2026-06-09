@@ -9,7 +9,7 @@ async function searchAI() {
 
   result.innerHTML = "Thinking...";
 
-  const API_KEY = "YAHAN_APNI_GEMINI_API_KEY_DALNA";
+  const API_KEY = "AQ.Ab8RN6KlTFN4JDibnlV1OrUT04VxMhIc03-S97ZhIcX3SA3_0g";
 
   try {
     const response = await fetch(
